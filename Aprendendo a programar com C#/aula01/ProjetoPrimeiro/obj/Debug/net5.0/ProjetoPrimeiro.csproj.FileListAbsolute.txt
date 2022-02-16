@@ -1,0 +1,16 @@
+C:\Users\Lucas - Senai\Documents\Projetos\ProjetoPrimeiro\ProjetoPrimeiro\bin\Debug\net5.0\ProjetoPrimeiro.exe
+C:\Users\Lucas - Senai\Documents\Projetos\ProjetoPrimeiro\ProjetoPrimeiro\bin\Debug\net5.0\ProjetoPrimeiro.deps.json
+C:\Users\Lucas - Senai\Documents\Projetos\ProjetoPrimeiro\ProjetoPrimeiro\bin\Debug\net5.0\ProjetoPrimeiro.runtimeconfig.json
+C:\Users\Lucas - Senai\Documents\Projetos\ProjetoPrimeiro\ProjetoPrimeiro\bin\Debug\net5.0\ProjetoPrimeiro.runtimeconfig.dev.json
+C:\Users\Lucas - Senai\Documents\Projetos\ProjetoPrimeiro\ProjetoPrimeiro\bin\Debug\net5.0\ProjetoPrimeiro.dll
+C:\Users\Lucas - Senai\Documents\Projetos\ProjetoPrimeiro\ProjetoPrimeiro\bin\Debug\net5.0\ref\ProjetoPrimeiro.dll
+C:\Users\Lucas - Senai\Documents\Projetos\ProjetoPrimeiro\ProjetoPrimeiro\bin\Debug\net5.0\ProjetoPrimeiro.pdb
+C:\Users\Lucas - Senai\Documents\Projetos\ProjetoPrimeiro\ProjetoPrimeiro\obj\Debug\net5.0\ProjetoPrimeiro.csproj.AssemblyReference.cache
+C:\Users\Lucas - Senai\Documents\Projetos\ProjetoPrimeiro\ProjetoPrimeiro\obj\Debug\net5.0\ProjetoPrimeiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas - Senai\Documents\Projetos\ProjetoPrimeiro\ProjetoPrimeiro\obj\Debug\net5.0\ProjetoPrimeiro.AssemblyInfoInputs.cache
+C:\Users\Lucas - Senai\Documents\Projetos\ProjetoPrimeiro\ProjetoPrimeiro\obj\Debug\net5.0\ProjetoPrimeiro.AssemblyInfo.cs
+C:\Users\Lucas - Senai\Documents\Projetos\ProjetoPrimeiro\ProjetoPrimeiro\obj\Debug\net5.0\ProjetoPrimeiro.csproj.CoreCompileInputs.cache
+C:\Users\Lucas - Senai\Documents\Projetos\ProjetoPrimeiro\ProjetoPrimeiro\obj\Debug\net5.0\ProjetoPrimeiro.dll
+C:\Users\Lucas - Senai\Documents\Projetos\ProjetoPrimeiro\ProjetoPrimeiro\obj\Debug\net5.0\ref\ProjetoPrimeiro.dll
+C:\Users\Lucas - Senai\Documents\Projetos\ProjetoPrimeiro\ProjetoPrimeiro\obj\Debug\net5.0\ProjetoPrimeiro.pdb
+C:\Users\Lucas - Senai\Documents\Projetos\ProjetoPrimeiro\ProjetoPrimeiro\obj\Debug\net5.0\ProjetoPrimeiro.genruntimeconfig.cache
