@@ -24,5 +24,3 @@ Registro: 30 anos de idade, código 5290 e gênero M
 
 Medida com oito casas decimais: 53,23456700
 Arredondado (três casas decimais): 53,235
-Separador decimal invariant culture: 53.235
-
