@@ -1,0 +1,16 @@
+C:\Users\Lucas - Senai\Documents\Projetos\Aula-05\Aula-05\bin\Debug\net5.0\Aula-05.exe
+C:\Users\Lucas - Senai\Documents\Projetos\Aula-05\Aula-05\bin\Debug\net5.0\Aula-05.deps.json
+C:\Users\Lucas - Senai\Documents\Projetos\Aula-05\Aula-05\bin\Debug\net5.0\Aula-05.runtimeconfig.json
+C:\Users\Lucas - Senai\Documents\Projetos\Aula-05\Aula-05\bin\Debug\net5.0\Aula-05.runtimeconfig.dev.json
+C:\Users\Lucas - Senai\Documents\Projetos\Aula-05\Aula-05\bin\Debug\net5.0\Aula-05.dll
+C:\Users\Lucas - Senai\Documents\Projetos\Aula-05\Aula-05\bin\Debug\net5.0\ref\Aula-05.dll
+C:\Users\Lucas - Senai\Documents\Projetos\Aula-05\Aula-05\bin\Debug\net5.0\Aula-05.pdb
+C:\Users\Lucas - Senai\Documents\Projetos\Aula-05\Aula-05\obj\Debug\net5.0\Aula-05.csproj.AssemblyReference.cache
+C:\Users\Lucas - Senai\Documents\Projetos\Aula-05\Aula-05\obj\Debug\net5.0\Aula-05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas - Senai\Documents\Projetos\Aula-05\Aula-05\obj\Debug\net5.0\Aula-05.AssemblyInfoInputs.cache
+C:\Users\Lucas - Senai\Documents\Projetos\Aula-05\Aula-05\obj\Debug\net5.0\Aula-05.AssemblyInfo.cs
+C:\Users\Lucas - Senai\Documents\Projetos\Aula-05\Aula-05\obj\Debug\net5.0\Aula-05.csproj.CoreCompileInputs.cache
+C:\Users\Lucas - Senai\Documents\Projetos\Aula-05\Aula-05\obj\Debug\net5.0\Aula-05.dll
+C:\Users\Lucas - Senai\Documents\Projetos\Aula-05\Aula-05\obj\Debug\net5.0\ref\Aula-05.dll
+C:\Users\Lucas - Senai\Documents\Projetos\Aula-05\Aula-05\obj\Debug\net5.0\Aula-05.pdb
+C:\Users\Lucas - Senai\Documents\Projetos\Aula-05\Aula-05\obj\Debug\net5.0\Aula-05.genruntimeconfig.cache
