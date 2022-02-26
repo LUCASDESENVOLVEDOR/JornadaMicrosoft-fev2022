@@ -1,0 +1,16 @@
+C:\Users\Lucas - Senai\Documents\Projetos\console_mvc\console_mvc\bin\Debug\net5.0\console_mvc.exe
+C:\Users\Lucas - Senai\Documents\Projetos\console_mvc\console_mvc\bin\Debug\net5.0\console_mvc.deps.json
+C:\Users\Lucas - Senai\Documents\Projetos\console_mvc\console_mvc\bin\Debug\net5.0\console_mvc.runtimeconfig.json
+C:\Users\Lucas - Senai\Documents\Projetos\console_mvc\console_mvc\bin\Debug\net5.0\console_mvc.runtimeconfig.dev.json
+C:\Users\Lucas - Senai\Documents\Projetos\console_mvc\console_mvc\bin\Debug\net5.0\console_mvc.dll
+C:\Users\Lucas - Senai\Documents\Projetos\console_mvc\console_mvc\bin\Debug\net5.0\ref\console_mvc.dll
+C:\Users\Lucas - Senai\Documents\Projetos\console_mvc\console_mvc\bin\Debug\net5.0\console_mvc.pdb
+C:\Users\Lucas - Senai\Documents\Projetos\console_mvc\console_mvc\obj\Debug\net5.0\console_mvc.csproj.AssemblyReference.cache
+C:\Users\Lucas - Senai\Documents\Projetos\console_mvc\console_mvc\obj\Debug\net5.0\console_mvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas - Senai\Documents\Projetos\console_mvc\console_mvc\obj\Debug\net5.0\console_mvc.AssemblyInfoInputs.cache
+C:\Users\Lucas - Senai\Documents\Projetos\console_mvc\console_mvc\obj\Debug\net5.0\console_mvc.AssemblyInfo.cs
+C:\Users\Lucas - Senai\Documents\Projetos\console_mvc\console_mvc\obj\Debug\net5.0\console_mvc.csproj.CoreCompileInputs.cache
+C:\Users\Lucas - Senai\Documents\Projetos\console_mvc\console_mvc\obj\Debug\net5.0\console_mvc.dll
+C:\Users\Lucas - Senai\Documents\Projetos\console_mvc\console_mvc\obj\Debug\net5.0\ref\console_mvc.dll
+C:\Users\Lucas - Senai\Documents\Projetos\console_mvc\console_mvc\obj\Debug\net5.0\console_mvc.pdb
+C:\Users\Lucas - Senai\Documents\Projetos\console_mvc\console_mvc\obj\Debug\net5.0\console_mvc.genruntimeconfig.cache
